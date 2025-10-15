@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pagafon</string>
+    <string-array name="opciones_spinner_lista">
+        <item>Factura</item>
+        <item>Recibo</item>
+        <item>Impuesto</item>
+        <item>Prestamo</item>
+        <item>Otros</item>
+    </string-array>
+    <string-array name="opciones_spinner_listaRecordatorios">
+        <item>Todos</item>
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </string-array>
+</resources>
